@@ -1,13 +1,11 @@
 {
-  "name": "strapi-newsletter-react",
+  "name": "strapi-newsletter",
   "version": "1.0.0",
-  "license": "MIT",
-  "description": "Newsletter Input Component For Strapi Newsletter Plugin",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
   "author": "Osada Vidath <osadavidath@gmail.com>",
-  "types": "dist/index.d.ts",
-  "main": "dist/cjs/index.js",
-  "module": "dist/esm/index.js",
-  "files": [
-    "dist"
-  ]
+  "license": "MIT"
 }

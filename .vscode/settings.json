@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["Strapi"]
+  "cSpell.words": ["Strapi"],
+  "discord.enabled": false
 }
