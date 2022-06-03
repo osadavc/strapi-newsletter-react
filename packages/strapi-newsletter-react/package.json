@@ -1,5 +1,5 @@
 {
-  "name": "strapi-newsletter-react",
+  "name": "@strapi-newsletter/react",
   "version": "1.0.0",
   "license": "MIT",
   "description": "Newsletter Input Component For Strapi Newsletter Plugin",
